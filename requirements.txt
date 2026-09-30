@@ -1,0 +1,8 @@
+flask
+numpy
+transformers
+accelerate
+# torch: install the CUDA build for your GPU from https://pytorch.org
+torch
+# optional: memory recall by meaning instead of keywords
+# sentence-transformers

@@ -1,0 +1,11 @@
+# private / generated at runtime
+bot_memory.db
+bot_conversations_log.json
+bot_customization.json
+bot_movement.pth
+*.tmp
+
+# python
+__pycache__/
+venv/
+.venv/
